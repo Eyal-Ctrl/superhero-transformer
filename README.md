@@ -1,3 +1,4 @@
+ HEAD
 # 🦸‍♀️ Superhero Image Transformer
 
 A free and open-source backend that takes an uploaded image URL and transforms it into a superhero-style portrait using Stable Diffusion + ControlNet. Designed for fun, educational, and family-friendly use — powering mobile apps that let kids see themselves as cosmic heroes.
@@ -82,3 +83,7 @@ Pull requests welcome! Please fork the repo and submit a PR with your improvemen
 
 ## 🧠 Credits
 Created with ❤️ by [YourNameHere] using FastAPI, Cloudinary, and open-source diffusion models.
+
+# superhero-transformer
+ AI-powered backend that turns photos into superhero-style portraits using Stable Diffusion + FastAPI.
+ 0a957df8bbb91b5f7de61373a42c5f0e6723b7f7
